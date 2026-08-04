@@ -1,0 +1,14 @@
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+
+# 日志与临时文件
+*.log
+debug.log
+temp/
+tmp/
+
+# 若将来在此空间放置代码或构建产物
+node_modules/
+dist/
+target/
