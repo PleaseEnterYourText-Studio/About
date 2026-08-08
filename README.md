@@ -61,8 +61,8 @@ Chatmail 不存储数据，只是**安全传输层**；真正数据存在客户�
 
 <div align="center">
 
-<img src="members/TiantianYZJ/TiantianYZJ.png" width="70" height="70" style="border-radius:50%">
 <img src="members/NoWint/NoWint.png" width="70" height="70" style="border-radius:50%">
+<img src="members/TiantianYZJ/TiantianYZJ.png" width="70" height="70" style="border-radius:50%">
 <img src="members/CarryRao/CarryRao.png" width="70" height="70" style="border-radius:50%">
 <img src="members/浣芷轩/浣芷轩.png" width="70" height="70" style="border-radius:50%">
 <img src="members/Falsw/Falsw.png" width="70" height="70" style="border-radius:50%">
@@ -72,8 +72,8 @@ Chatmail 不存储数据，只是**安全传输层**；真正数据存在客户�
 
 | 成员 | 角色 | 平台方向 |
 |---|---|---|
-| [TiantianYZJ](members/TiantianYZJ/TiantianYZJ.md) | 联合创始人 | Desktop @ Windows |
 | [NoWint](members/NoWint/NoWint.md) | 联合创始人 | Desktop @ macOS、TUI |
+| [TiantianYZJ](members/TiantianYZJ/TiantianYZJ.md) | 联合创始人 | Desktop @ Windows |
 | [SUKY](members/SUKY/SUKY.md) | 联合创始人 | — |
 | [chenmuyun_bit](members/chenmuyun_bit/chenmuyun_bit.md) | 联合创始人 | — |
 | [CarryRao](members/CarryRao/CarryRao.md) | 核心成员 | Android Backend、Desktop Linux |
