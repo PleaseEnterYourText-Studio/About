@@ -61,12 +61,12 @@ Chatmail 不存储数据，只是**安全传输层**；真正数据存在客户�
 
 <div align="center">
 
-<img src="members/NoWint/NoWint.png" width="70" height="70" style="border-radius:50%">
-<img src="members/TiantianYZJ/TiantianYZJ.png" width="70" height="70" style="border-radius:50%">
-<img src="members/CarryRao/CarryRao.png" width="70" height="70" style="border-radius:50%">
-<img src="members/浣芷轩/浣芷轩.png" width="70" height="70" style="border-radius:50%">
-<img src="members/Falsw/Falsw.png" width="70" height="70" style="border-radius:50%">
-<img src="members/MaherJon/MaherJon.png" width="70" height="70" style="border-radius:50%">
+<kbd><img src="members/NoWint/NoWint.png" width="70" height="70"></kbd>
+<kbd><img src="members/TiantianYZJ/TiantianYZJ.png" width="70" height="70"></kbd>
+<kbd><img src="members/CarryRao/CarryRao.png" width="70" height="70"></kbd>
+<kbd><img src="members/浣芷轩/浣芷轩.png" width="70" height="70"></kbd>
+<kbd><img src="members/Falsw/Falsw.png" width="70" height="70"></kbd>
+<kbd><img src="members/MaherJon/MaherJon.png" width="70" height="70"></kbd>
 
 </div>
 
