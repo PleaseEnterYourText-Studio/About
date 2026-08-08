@@ -16,16 +16,24 @@ PEYT Studio/
 │   ├── 03-project.md          # 项目 PEYT Chat 定位 / 路线 / 实际开发状态
 │   ├── 04-architecture.md     # 通信架构 / Event 模型 / Event Sourcing / 版本兼容
 │   └── 05-ops.md              # 代码仓库 / 开源态度 / 招募理念 / ChatMail 部署
-└── members/                   # 成员个人档案（每位成员一份，文件名沿用成员原名，不限大小写）
+└── members/                   # 成员个人档案（每位成员一个文件夹，内含档案与头像等）
     ├── 00-index.md            # 成员索引
-    ├── TiantianYZJ.md
-    ├── NoWint.md
-    ├── SUKY.md
-    ├── chenmuyun_bit.md
-    ├── CarryRao.md
-    ├── Falsw.md
-    ├── HuanZ-007-25.md        # 浣芷轩
-    └── MaherJon.md
+    ├── TiantianYZJ/
+    │   └── TiantianYZJ.md     # 档案；头像可放 avatar.*
+    ├── NoWint/
+    │   └── NoWint.md
+    ├── SUKY/
+    │   └── SUKY.md
+    ├── chenmuyun_bit/
+    │   └── chenmuyun_bit.md
+    ├── CarryRao/
+    │   └── CarryRao.md
+    ├── Falsw/
+    │   └── Falsw.md
+    ├── 浣芷轩/
+    │   └── 浣芷轩.md
+    └── MaherJon/
+        └── MaherJon.md
 ```
 
 ## 快速导航
