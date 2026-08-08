@@ -70,16 +70,16 @@ Chatmail 不存储数据，只是**安全传输层**；真正数据存在客户�
 
 </div>
 
-| 成员 | 角色 | 平台方向 |
-|---|---|---|
-| [NoWint](members/NoWint/NoWint.md) | 联合创始人 | Desktop @ macOS、TUI |
-| [TiantianYZJ](members/TiantianYZJ/TiantianYZJ.md) | 联合创始人 | Desktop @ Windows |
-| [SUKY](members/SUKY/SUKY.md) | 联合创始人 | — |
-| [chenmuyun_bit](members/chenmuyun_bit/chenmuyun_bit.md) | 联合创始人 | — |
-| [CarryRao](members/CarryRao/CarryRao.md) | 核心成员 | Android Backend、Desktop Linux |
-| [浣芷轩](members/浣芷轩/浣芷轩.md) | 核心成员 | Desktop macOS |
-| [Falsw](members/Falsw/Falsw.md) | 核心成员 | — |
-| [MaherJon](members/MaherJon/MaherJon.md) | 核心成员 | Android Frontend |
+| 成员 | 角色 | 平台方向 | 个人站 |
+|---|---|---|---|
+| [NoWint](members/NoWint/NoWint.md) | 联合创始人 | Desktop @ macOS、TUI | [nowint.github.io](https://nowint.github.io) |
+| [TiantianYZJ](members/TiantianYZJ/TiantianYZJ.md) | 联合创始人 | Desktop @ Windows | [yzjtiantian.cn](https://yzjtiantian.cn/) |
+| [SUKY](members/SUKY/SUKY.md) | 联合创始人 | — | — |
+| [chenmuyun_bit](members/chenmuyun_bit/chenmuyun_bit.md) | 联合创始人 | — | — |
+| [CarryRao](members/CarryRao/CarryRao.md) | 核心成员 | Android Backend、Desktop Linux | [carryrao.top](https://carryrao.top/) |
+| [浣芷轩](members/浣芷轩/浣芷轩.md) | 核心成员 | Desktop macOS | [bilibili](https://space.bilibili.com/1716940207) |
+| [Falsw](members/Falsw/Falsw.md) | 核心成员 | — | [falswqwq.github.io](https://falswqwq.github.io/) |
+| [MaherJon](members/MaherJon/MaherJon.md) | 核心成员 | Android Frontend | [MAHE](https://maherjon.github.io/MAHE/) |
 
 ```mermaid
 flowchart TD

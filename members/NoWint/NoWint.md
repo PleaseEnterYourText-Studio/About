@@ -3,6 +3,7 @@
 **角色：** 联合创始人
 **状态：** 在职
 **年龄：** 14 岁
+**个人站：** [nowint.github.io](https://nowint.github.io)
 
 ## 方向
 

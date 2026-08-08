@@ -2,6 +2,7 @@
 
 **角色：** 核心成员
 **状态：** 在职
+**个人站：** [falswqwq.github.io](https://falswqwq.github.io/)
 
 ## 方向
 
