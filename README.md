@@ -1,15 +1,16 @@
 <div align="center">
 
+<img src="BACKGROUND.png" alt="PEYT Studio" width="100%">
+
+<br/>
+
+<img src="PEYT.jpg" alt="PEYT Studio logo" width="80" style="vertical-align:middle; border-radius:12px">
+
 # PEYT Studio
 
 **PleaseEnterYourText Studio** · 请输入文本工作室
 
 `Type Everything`
-
-```
->
-_
-```
 
 ![org](https://img.shields.io/badge/PleaseEnterYourText-Studio-000?style=flat-square&logo=github&logoColor=white)
 ![members](https://img.shields.io/badge/members-8-2ea44f?style=flat-square)
@@ -110,7 +111,7 @@ flowchart TD
 | 仓库 | 说明 |
 |---|---|
 | [PleaseEnterYourTextCommunity](https://github.com/NoWint/PleaseEnterYourTextCommunity) | PEYT Chat 桌面客户端（Tauri v2 + deltachat core） |
-| ChatMail | 自部署 Chatmail 服务（上游 chatmail/relay + Docker 部署方案） |
+| [ChatMail-ANY-Linux-Deploy](https://github.com/TiantianYZJ/ChatMail-ANY-Linux-Deploy) | 自部署 Chatmail 服务（任意 Linux，Docker 部署方案） |
 | [About](https://github.com/PleaseEnterYourText-Studio/About) | 本仓库 · 工作室官方档案 |
 
 ---
