@@ -10,14 +10,14 @@
 
 | 成员 | 状态 | 角色 | 平台方向 | 主要职责 |
 |---|---|---|---|---|
-| [TiantianYZJ](../members/tiantianyzj.md) | 在职 | 联合创始人 | Desktop @ Windows | PEYT Chat 聊天系统、JSON 封装、Chatmail 部署 |
-| [NoWint](../members/nowint.md) | 在职 | 联合创始人 | Desktop @ macOS、TUI | 架构搭建、群聊 Bot、主题系统 |
-| [SUKY](../members/suky.md) | 不在职 | 联合创始人 | — | — |
+| [TiantianYZJ](../members/TiantianYZJ.md) | 在职 | 联合创始人 | Desktop @ Windows | PEYT Chat 聊天系统、JSON 封装、Chatmail 部署 |
+| [NoWint](../members/NoWint.md) | 在职 | 联合创始人 | Desktop @ macOS、TUI | 架构搭建、群聊 Bot、主题系统 |
+| [SUKY](../members/SUKY.md) | 不在职 | 联合创始人 | — | — |
 | [chenmuyun_bit](../members/chenmuyun_bit.md) | 不在职 | 联合创始人 | — | — |
-| [CarryRao](../members/carryrao.md) | 在职 | 核心成员 | Android Backend、Desktop Linux | 后端移植、平台适配、API |
-| [浣芷轩](../members/huanzhixuan.md) | 在职 | 核心成员 | Desktop macOS | UI/UX 设计、界面优化 |
-| [Falsw](../members/falsw.md) | 在职 | 核心成员 | — | — |
-| [MaherJon](../members/maherjon.md) | 在职 | 核心成员 | Android Frontend | Android UI/UX、前端开发 |
+| [CarryRao](../members/CarryRao.md) | 在职 | 核心成员 | Android Backend、Desktop Linux | 后端移植、平台适配、API |
+| [浣芷轩](../members/HuanZ-007-25.md) | 在职 | 核心成员 | Desktop macOS | UI/UX 设计、界面优化 |
+| [Falsw](../members/Falsw.md) | 在职 | 核心成员 | — | — |
+| [MaherJon](../members/MaherJon.md) | 在职 | 核心成员 | Android Frontend | Android UI/UX、前端开发 |
 
 > 每位成员的完整档案见 [members/ 目录](../members/00-index.md)。
 
