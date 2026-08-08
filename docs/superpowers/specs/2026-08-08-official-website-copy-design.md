@@ -152,12 +152,12 @@ EN: Six active members — teenage devs leveling up through real projects.
 
 成员卡片墙（CSS Grid，每张卡片 = 圆形头像 + 名字 + 一句话活人感 + 角色/方向 + 个人站）：
 
-[NoWint]  联合创始人 · macOS / TUI        活人感：*（待定）*        nowint.github.io
+[NoWint]  联合创始人 · macOS / TUI        活人感：「我是神」   nowint.github.io
 [TiantianYZJ] 联合创始人 · Windows       活人感：「我不是冯诺 1 曼派」   yzjtiantian.cn
-[CarryRao]  核心成员 · Android / Linux    活人感：*（待定）*        carryrao.top
+[CarryRao]  核心成员 · Android / Linux    活人感：「前端小菜鸡，后端半吊子」   carryrao.top
 [浣芷轩]   核心成员 · macOS              活人感：「(◐‿◑) 你爹来啦」    bilibili
-[Falsw]    核心成员 · 底层               活人感：*（待定）*        falswqwq.github.io
-[MaherJon] 核心成员 · Android            活人感：*（待定）*        MAHE
+[Falsw]    核心成员 · 底层               活人感：「闷声修底层，偶尔冒泡整活」（草拟·待本人确认）   falswqwq.github.io
+[MaherJon] 核心成员 · Android            活人感：「书写一些代码，声明一些 UI」   MAHE
 
 分工 Mermaid 图（保留 README 那张）。
 
@@ -191,5 +191,5 @@ EN: We're recruiting teenage devs — 14 to 18 — who code, learn, and build.
 
 - [ ] 决定官网技术栈与构建方式
 - [ ] 放置 `@JOINUS.jpg` 二维码素材
-- [ ] 补充 NoWint / CarryRao / Falsw / MaherJon 四人的一句话活人感
+- [ ] 确认 Falsw 的一句话活人感（当前为草拟版，取自成员档案）
 - [ ] 同步修正本仓库 README 中过时的「11 套主题」「Vanilla JS」等表述（可选，另开任务）
