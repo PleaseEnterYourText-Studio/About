@@ -39,7 +39,7 @@ PEYT Studio 起源于深圳的一场 **AIx脑科学研学活动**。TiantianYZJ�
 - [x] Bot 账号系统 + LLM 运行时（DeepSeek / OpenAI / Claude）
 - [x] 插件系统（GitHub Pages 市场，`new Function` 直执行 + 权限门控）
 - [x] 好友邀请系统（`peyt://` 链接 / SecureJoin 二维码）
-- [x] 11 套主题 + 全局字体缩放
+- [x] 15 套主题 + 全局字体缩放
 - [x] 已对齐 Delta Chat 功能批次 1–4
 
 ### 架构
@@ -110,7 +110,14 @@ flowchart TD
 |---|---|
 | [PleaseEnterYourTextCommunity](https://github.com/NoWint/PleaseEnterYourTextCommunity) | PEYT Chat 桌面客户端（Tauri v2 + deltachat core） |
 | [ChatMail-ANY-Linux-Deploy](https://github.com/TiantianYZJ/ChatMail-ANY-Linux-Deploy) | 自部署 Chatmail 服务（任意 Linux，Docker 部署方案） |
+| [EGGDataScience](https://github.com/PleaseEnterYourText-Studio/EGGDataScience) | 心流状态研究的 EEG 数据分析平台（Python / FastAPI） |
+| [NeuroLink-EEG](https://github.com/PleaseEnterYourText-Studio/NeuroLink-EEG) | EEG BCI 心流实验平台（OpenBCI Ganglion，四端实时同步） |
+| [Nervefeyn](https://github.com/PleaseEnterYourText-Studio/Nervefeyn) | 开源 AI 研究代理 · 神经计算研究工作台（TS / Astro） |
+| [NoargueWorkspace](https://github.com/PleaseEnterYourText-Studio/NoargueWorkspace) | 时光绿径待办 · 微信小程序 + Node.js 待办管理 |
+| [PeytDocs](https://github.com/PleaseEnterYourText-Studio/PeytDocs) | 团队项目与架构文档站（Docsify） |
 | [About](https://github.com/PleaseEnterYourText-Studio/About) | 本仓库 · 工作室官方档案 |
+
+> 组织仓库全量归档见 [studio/06-repos.md](studio/06-repos.md)。
 
 ---
 
@@ -128,6 +135,14 @@ PEYT Chat 保持**开放源码**，但不主动大规模宣传——P2P、去中
 > [!TIP]
 > 我们正在招人，面向 **14–18 岁**、有热情有基础的年轻开发者。
 
+<div align="center">
+
+![加入 PEYT Studio QQ 群](JOINUS.jpg)
+
+**扫码加入 PEYT Studio QQ 群** · Scan to join our QQ group
+
+</div>
+
 - **关注**：LLM / AGI / AIGC / Agent / Harness
 - **需要**：编程热情 · 开发能力 · Git 协作经验 · AI 兴趣
 - **不喜欢**：混名额 · 不写代码 · 只会给 AI 下指令 · 不懂工程 · 不协作
@@ -143,7 +158,8 @@ PEYT Studio/
 │   ├── 02-team.md             # 团队架构 / 分工总览
 │   ├── 03-project.md          # 项目 PEYT Chat 定位 / 路线 / 开发状态
 │   ├── 04-architecture.md     # 通信架构 / Event 模型 / Event Sourcing
-│   └── 05-ops.md              # 代码仓库 / 开源态度 / 招募 / ChatMail 部署
+│   ├── 05-ops.md              # 代码仓库 / 开源态度 / 招募 / ChatMail 部署
+│   └── 06-repos.md            # 仓库与个人主页归档（组织 + 成员全量）
 ├── members/                   # 成员档案（每人一个文件夹：档案 + 头像）
 │   └── 00-index.md
 └── archive/                   # 群聊记录总结与归档
