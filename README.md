@@ -4,9 +4,7 @@
 
 <br/>
 
-<img src="PEYT.jpg" alt="PEYT Studio logo" width="80" style="vertical-align:middle; border-radius:12px">
-
-# PEYT Studio
+# <img src="PEYT.jpg" alt="PEYT Studio logo" width="44" style="vertical-align:middle; border-radius:8px"> PEYT Studio
 
 **PleaseEnterYourText Studio** · 请输入文本工作室
 
