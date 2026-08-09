@@ -15,3 +15,5 @@ target/
 
 # 原始群聊导出（含隐私/密钥，仅本地保留）
 archive/group_*.txt
+
+.idea/

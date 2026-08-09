@@ -13,7 +13,7 @@
 ![org](https://img.shields.io/badge/PleaseEnterYourText-Studio-000?style=flat-square&logo=github&logoColor=white)
 ![members](https://img.shields.io/badge/members-8-2ea44f?style=flat-square)
 ![project](https://img.shields.io/badge/project-PEYT%20Chat-blue?style=flat-square)
-![license](https://img.shields.io/badge/code-Open%20Source-blueviolet?style=flat-square)
+![license](https://img.shields.io/badge/Code-AGPL3.0%20Source-blueviolet?style=flat-square)
 
 一个由中学生开发者组成的年轻技术工作室。
 
@@ -137,9 +137,10 @@ PEYT Chat 保持**开放源码**，但不主动大规模宣传——P2P、去中
 
 <div align="center">
 
-![加入 PEYT Studio QQ 群](JOINUS.jpg)
 
-**扫码加入 PEYT Studio QQ 群** · Scan to join our QQ group
+[![QQ Group](https://img.shields.io/badge/QQ-gray?style=flat-square&logo=qq&logoColor=ffffff)](https://qm.qq.com/q/1gWQMAzLU8)
+
+
 
 </div>
 
